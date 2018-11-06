@@ -1,0 +1,900 @@
+异常时间:2018-01-04 13:07:58,505 
+线程编号:11 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 13:08:16,622 
+线程编号:5 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 13:08:30,441 
+线程编号:5 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:HotelDetail:1234
+********************************************
+异常时间:2018-01-04 13:11:15,487 
+线程编号:7 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 13:11:22,113 
+线程编号:7 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:HotelDetail:1234
+********************************************
+异常时间:2018-01-04 13:18:46,345 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 13:18:53,125 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:HotelDetail:1234
+********************************************
+异常时间:2018-01-04 13:18:53,127 
+线程编号:7 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 13:18:55,830 
+线程编号:7 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:HotelDetail:1234
+********************************************
+异常时间:2018-01-04 13:19:34,212 
+线程编号:7 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 13:19:34,212 
+线程编号:7 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:HotelDetail:1234
+********************************************
+异常时间:2018-01-04 13:20:56,076 
+线程编号:17 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 13:20:56,077 
+线程编号:17 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:HotelDetail:1234
+********************************************
+异常时间:2018-01-04 15:45:32,899 
+线程编号:133 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 15:45:33,118 
+线程编号:133 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:HotelDetail:1234
+********************************************
+异常时间:2018-01-04 15:50:23,121 
+线程编号:128 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 15:50:23,165 
+线程编号:128 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:HotelDetail:1234
+********************************************
+异常时间:2018-01-04 16:07:04,247 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 16:07:04,328 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:HotelDetail:1234
+********************************************
+异常时间:2018-01-04 16:07:04,334 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:url:http://wechat1.boozhotel.com//Hotel/HotelDetail?storeid=180
+********************************************
+异常时间:2018-01-04 16:07:05,159 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:jsTickect:bxLdikRXVbTPdHSM05e5uykGvWeaLhbdam_JAwMvXUSwSq-djrnMkPMCLCxtap2eDBOUCWJeX8BO5N5B51cuIg
+********************************************
+异常时间:2018-01-04 16:21:51,636 
+线程编号:8 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 16:21:51,647 
+线程编号:8 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:HandleUnauthorizedRequest0
+********************************************
+异常时间:2018-01-04 16:21:51,649 
+线程编号:8 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\WeChat\Services\LogWriter.cs
+所在行号:59
+其它信息:小程序获取客户微信资料,https://open.weixin.qq.com/connect/oauth2/authorize?appid=&redirect_uri=http://wechat1.boozhotel.com/OAuth/Callback&response_type=code&scope=&state=http://localhost:55136/Hotel/HotelDetail/0#wechat_redirect,缓存key:,缓存value:http://localhost:55136/Hotel/HotelDetail/0,缓存域id:/LM/W3SVC/2/ROOT-1-131595277023168466
+********************************************
+异常时间:2018-01-04 16:22:14,362 
+线程编号:8 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 16:22:14,362 
+线程编号:8 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:HandleUnauthorizedRequest180
+********************************************
+异常时间:2018-01-04 16:22:14,364 
+线程编号:8 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\WeChat\Services\LogWriter.cs
+所在行号:59
+其它信息:小程序获取客户微信资料,https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxf7bd3c3f942fcfee&redirect_uri=http://wechat1.boozhotel.com/OAuth/Callback&response_type=code&scope=snsapi_userinfo&state=http://localhost:55136/Hotel/HotelDetail?storeid=180/180#wechat_redirect,缓存key:,缓存value:http://localhost:55136/Hotel/HotelDetail?storeid=180/180,缓存域id:/LM/W3SVC/2/ROOT-1-131595277023168466
+********************************************
+异常时间:2018-01-04 16:22:52,361 
+线程编号:9 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 16:22:52,385 
+线程编号:9 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:HotelDetail:1234
+********************************************
+异常时间:2018-01-04 16:22:52,392 
+线程编号:9 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:url:http://wechat1.boozhotel.com/Hotel/HotelDetail?storeid=180
+********************************************
+异常时间:2018-01-04 16:22:52,821 
+线程编号:9 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:jsTickect:bxLdikRXVbTPdHSM05e5uykGvWeaLhbdam_JAwMvXUSwSq-djrnMkPMCLCxtap2eDBOUCWJeX8BO5N5B51cuIg
+********************************************
+异常时间:2018-01-04 16:24:36,737 
+线程编号:5 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 16:24:36,738 
+线程编号:5 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:HotelDetail:1234
+********************************************
+异常时间:2018-01-04 16:24:36,740 
+线程编号:5 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:url:http://wechat1.boozhotel.com/Hotel/HotelDetail?storeid=180
+********************************************
+异常时间:2018-01-04 16:24:36,791 
+线程编号:5 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:jsTickect:bxLdikRXVbTPdHSM05e5uykGvWeaLhbdam_JAwMvXUSwSq-djrnMkPMCLCxtap2eDBOUCWJeX8BO5N5B51cuIg
+********************************************
+异常时间:2018-01-04 16:57:10,649 
+线程编号:11 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 16:57:10,649 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 16:57:10,675 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:HotelDetail:1234
+********************************************
+异常时间:2018-01-04 16:57:10,681 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:url:http://wechat1.boozhotel.com/Hotel/HotelDetail?storeid=180
+********************************************
+异常时间:2018-01-04 16:57:10,850 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:jsTickect:bxLdikRXVbTPdHSM05e5uykGvWeaLhbdam_JAwMvXUSwSq-djrnMkPMCLCxtap2eDBOUCWJeX8BO5N5B51cuIg
+********************************************
+异常时间:2018-01-04 16:57:41,791 
+线程编号:8 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 16:57:45,195 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 16:57:47,400 
+线程编号:11 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 16:57:49,885 
+线程编号:11 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 16:58:01,189 
+线程编号:8 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 16:58:06,337 
+线程编号:11 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 16:59:15,275 
+线程编号:9 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 16:59:18,800 
+线程编号:9 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 16:59:21,661 
+线程编号:13 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 16:59:24,332 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 17:13:21,555 
+线程编号:8 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 17:13:21,555 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 17:14:04,136 
+线程编号:8 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 17:14:07,818 
+线程编号:8 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:openid:1234
+********************************************
+异常时间:2018-01-04 17:14:07,965 
+线程编号:8 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:token:5_sXpey0X-SPVshMl2Kb5ap4O__dPnMHIae2Z4TCb7_Zhc62hUt9DW8lHWlDtAkirGYdKpstmFmBvVRjBIc2_cj6bbAQcr4hAuQ7JH1C9KqwEYgEwmVvqVBhdbv-AVUWeCGAIHJ,openid:1234
+********************************************
+异常时间:2018-01-04 17:14:15,103 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 17:14:19,382 
+线程编号:9 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 17:14:21,743 
+线程编号:14 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 17:14:25,696 
+线程编号:8 
+异常信息:所在文件:
+所在行号:0
+其它信息:列名 'Ing_type' 无效。(失败)
+参数化sql:SELECT top 1 a.dt_useTime,b.* FROM T_CouponLog a
+                                INNER JOIN T_CouponDetails b
+                                on a.Ing_PaperID=b.Ing_PaperID
+                                INNER JOIN T_CouponType c
+                                on b.Ing_CouponTypeID=c.Ing_CouponTypeID
+                                WHERE c.Ing_type=1 AND a.Ing_MasterID=120177 AND (isnull(b.Ing_LastNum,0)=0 or b.Ing_Sta=2)
+                                AND DATEDIFF(DAY,a.dt_useTime,GETDATE())>=0  ORDER BY a.Ing_LogID desc
+整理过的sql:SELECT top 1 a.dt_useTime,b.* FROM T_CouponLog a
+                                INNER JOIN T_CouponDetails b
+                                on a.Ing_PaperID=b.Ing_PaperID
+                                INNER JOIN T_CouponType c
+                                on b.Ing_CouponTypeID=c.Ing_CouponTypeID
+                                WHERE c.Ing_type=1 AND a.Ing_MasterID=120177 AND (isnull(b.Ing_LastNum,0)=0 or b.Ing_Sta=2)
+                                AND DATEDIFF(DAY,a.dt_useTime,GETDATE())>=0  ORDER BY a.Ing_LogID desc
+参数:
+
+********************************************
+异常时间:2018-01-04 17:14:25,822 
+线程编号:8 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_CouponRange' 无效。(失败)
+参数化sql:select '门市价' as str_RateID,isnull(d.str_InterType,'ALL') as str_InterType, b.str_PaperName,b.str_SendType,
+                          a.Ing_PaperID,a.str_PaperCode,a.dec_Amount,a.dt_EndTime,a.Ing_LastNum,a.dt_StartTime
+                        FROM T_CouponDetails a
+                        INNER JOIN T_CouponType b on a.Ing_CouponTypeID=b.Ing_CouponTypeID
+                        INNER JOIN T_CouponRange c ON b.Ing_CouponTypeID=c.Ing_CouponTypeID
+                    left join T_Master d on d.Ing_Pk_MasterID=120177
+                        WHERE b.Ing_type=1 AND a.Ing_VipcardInfoID=99119802 and a.Ing_Sta=1 AND a.Ing_LastNum>0
+                        AND c.Ing_StoreID=180 AND (','+c.str_RoomCode+',' like '%,单间,%' or ','+c.str_RoomCode+',' like '%,0,%')
+                        AND isnull(a.dec_Amount,0)<>0 AND isnull(a.dec_Amount,0)<158.00 and 1=1 
+整理过的sql:select '门市价' as str_RateID,isnull(d.str_InterType,'ALL') as str_InterType, b.str_PaperName,b.str_SendType,
+                          a.Ing_PaperID,a.str_PaperCode,a.dec_Amount,a.dt_EndTime,a.Ing_LastNum,a.dt_StartTime
+                        FROM T_CouponDetails a
+                        INNER JOIN T_CouponType b on a.Ing_CouponTypeID=b.Ing_CouponTypeID
+                        INNER JOIN T_CouponRange c ON b.Ing_CouponTypeID=c.Ing_CouponTypeID
+                    left join T_Master d on d.Ing_Pk_MasterID=120177
+                        WHERE b.Ing_type=1 AND a.Ing_VipcardInfoID=99119802 and a.Ing_Sta=1 AND a.Ing_LastNum>0
+                        AND c.Ing_StoreID=180 AND (','+c.str_RoomCode+',' like '%,单间,%' or ','+c.str_RoomCode+',' like '%,0,%')
+                        AND isnull(a.dec_Amount,0)<>0 AND isnull(a.dec_Amount,0)<158.00 and 1=1 
+参数:
+
+********************************************
+异常时间:2018-01-04 17:14:27,318 
+线程编号:8 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 17:14:36,915 
+线程编号:14 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 17:14:40,992 
+线程编号:14 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 17:14:54,896 
+线程编号:7 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 17:16:48,622 
+线程编号:17 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'dbo.T_ContinueInter' 无效。(失败)
+参数化sql:SELECT TOP 1 * FROM dbo.T_ContinueInter a WHERE a.Ing_MasterID=120177 AND ISNULL(a.Ing_type,0)=0 ORDER BY a.Ing_pkid DESC
+整理过的sql:SELECT TOP 1 * FROM dbo.T_ContinueInter a WHERE a.Ing_MasterID=120177 AND ISNULL(a.Ing_type,0)=0 ORDER BY a.Ing_pkid DESC
+参数:
+
+********************************************
+异常时间:2018-01-04 17:18:05,454 
+线程编号:19 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 17:20:24,989 
+线程编号:19 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 17:20:51,908 
+线程编号:24 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 17:20:59,749 
+线程编号:24 
+异常信息:所在文件:
+所在行号:0
+其它信息:列名 'Ing_type' 无效。(失败)
+参数化sql:SELECT top 1 a.dt_useTime,b.* FROM T_CouponLog a
+                                INNER JOIN T_CouponDetails b
+                                on a.Ing_PaperID=b.Ing_PaperID
+                                INNER JOIN T_CouponType c
+                                on b.Ing_CouponTypeID=c.Ing_CouponTypeID
+                                WHERE c.Ing_type=1 AND a.Ing_MasterID=120177 AND (isnull(b.Ing_LastNum,0)=0 or b.Ing_Sta=2)
+                                AND DATEDIFF(DAY,a.dt_useTime,GETDATE())>=0  ORDER BY a.Ing_LogID desc
+整理过的sql:SELECT top 1 a.dt_useTime,b.* FROM T_CouponLog a
+                                INNER JOIN T_CouponDetails b
+                                on a.Ing_PaperID=b.Ing_PaperID
+                                INNER JOIN T_CouponType c
+                                on b.Ing_CouponTypeID=c.Ing_CouponTypeID
+                                WHERE c.Ing_type=1 AND a.Ing_MasterID=120177 AND (isnull(b.Ing_LastNum,0)=0 or b.Ing_Sta=2)
+                                AND DATEDIFF(DAY,a.dt_useTime,GETDATE())>=0  ORDER BY a.Ing_LogID desc
+参数:
+
+********************************************
+异常时间:2018-01-04 17:20:59,839 
+线程编号:24 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_CouponRange' 无效。(失败)
+参数化sql:select '门市价' as str_RateID,isnull(d.str_InterType,'ALL') as str_InterType, b.str_PaperName,b.str_SendType,
+                          a.Ing_PaperID,a.str_PaperCode,a.dec_Amount,a.dt_EndTime,a.Ing_LastNum,a.dt_StartTime
+                        FROM T_CouponDetails a
+                        INNER JOIN T_CouponType b on a.Ing_CouponTypeID=b.Ing_CouponTypeID
+                        INNER JOIN T_CouponRange c ON b.Ing_CouponTypeID=c.Ing_CouponTypeID
+                    left join T_Master d on d.Ing_Pk_MasterID=120177
+                        WHERE b.Ing_type=1 AND a.Ing_VipcardInfoID=99119802 and a.Ing_Sta=1 AND a.Ing_LastNum>0
+                        AND c.Ing_StoreID=180 AND (','+c.str_RoomCode+',' like '%,单间,%' or ','+c.str_RoomCode+',' like '%,0,%')
+                        AND isnull(a.dec_Amount,0)<>0 AND isnull(a.dec_Amount,0)<158.00 and 1=1 
+整理过的sql:select '门市价' as str_RateID,isnull(d.str_InterType,'ALL') as str_InterType, b.str_PaperName,b.str_SendType,
+                          a.Ing_PaperID,a.str_PaperCode,a.dec_Amount,a.dt_EndTime,a.Ing_LastNum,a.dt_StartTime
+                        FROM T_CouponDetails a
+                        INNER JOIN T_CouponType b on a.Ing_CouponTypeID=b.Ing_CouponTypeID
+                        INNER JOIN T_CouponRange c ON b.Ing_CouponTypeID=c.Ing_CouponTypeID
+                    left join T_Master d on d.Ing_Pk_MasterID=120177
+                        WHERE b.Ing_type=1 AND a.Ing_VipcardInfoID=99119802 and a.Ing_Sta=1 AND a.Ing_LastNum>0
+                        AND c.Ing_StoreID=180 AND (','+c.str_RoomCode+',' like '%,单间,%' or ','+c.str_RoomCode+',' like '%,0,%')
+                        AND isnull(a.dec_Amount,0)<>0 AND isnull(a.dec_Amount,0)<158.00 and 1=1 
+参数:
+
+********************************************
+异常时间:2018-01-04 17:21:01,554 
+线程编号:19 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 17:21:07,865 
+线程编号:14 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'dbo.T_ContinueInter' 无效。(失败)
+参数化sql:SELECT TOP 1 * FROM dbo.T_ContinueInter a WHERE a.Ing_MasterID=120177 AND ISNULL(a.Ing_type,0)=0 ORDER BY a.Ing_pkid DESC
+整理过的sql:SELECT TOP 1 * FROM dbo.T_ContinueInter a WHERE a.Ing_MasterID=120177 AND ISNULL(a.Ing_type,0)=0 ORDER BY a.Ing_pkid DESC
+参数:
+
+********************************************
+异常时间:2018-01-04 17:21:52,126 
+线程编号:21 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 17:22:02,758 
+线程编号:24 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'dbo.T_ContinueInter' 无效。(失败)
+参数化sql:SELECT TOP 1 * FROM dbo.T_ContinueInter a WHERE a.Ing_MasterID=120177 AND ISNULL(a.Ing_type,0)=0 ORDER BY a.Ing_pkid DESC
+整理过的sql:SELECT TOP 1 * FROM dbo.T_ContinueInter a WHERE a.Ing_MasterID=120177 AND ISNULL(a.Ing_type,0)=0 ORDER BY a.Ing_pkid DESC
+参数:
+
+********************************************
+异常时间:2018-01-04 17:25:45,060 
+线程编号:8 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 17:25:45,330 
+线程编号:7 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 17:25:55,252 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 17:26:03,188 
+线程编号:8 
+异常信息:所在文件:
+所在行号:0
+其它信息:列名 'Ing_type' 无效。(失败)
+参数化sql:SELECT top 1 a.dt_useTime,b.* FROM T_CouponLog a
+                                INNER JOIN T_CouponDetails b
+                                on a.Ing_PaperID=b.Ing_PaperID
+                                INNER JOIN T_CouponType c
+                                on b.Ing_CouponTypeID=c.Ing_CouponTypeID
+                                WHERE c.Ing_type=1 AND a.Ing_MasterID=120178 AND (isnull(b.Ing_LastNum,0)=0 or b.Ing_Sta=2)
+                                AND DATEDIFF(DAY,a.dt_useTime,GETDATE())>=0  ORDER BY a.Ing_LogID desc
+整理过的sql:SELECT top 1 a.dt_useTime,b.* FROM T_CouponLog a
+                                INNER JOIN T_CouponDetails b
+                                on a.Ing_PaperID=b.Ing_PaperID
+                                INNER JOIN T_CouponType c
+                                on b.Ing_CouponTypeID=c.Ing_CouponTypeID
+                                WHERE c.Ing_type=1 AND a.Ing_MasterID=120178 AND (isnull(b.Ing_LastNum,0)=0 or b.Ing_Sta=2)
+                                AND DATEDIFF(DAY,a.dt_useTime,GETDATE())>=0  ORDER BY a.Ing_LogID desc
+参数:
+
+********************************************
+异常时间:2018-01-04 17:26:03,297 
+线程编号:8 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_CouponRange' 无效。(失败)
+参数化sql:select '门市价' as str_RateID,isnull(d.str_InterType,'ALL') as str_InterType, b.str_PaperName,b.str_SendType,
+                          a.Ing_PaperID,a.str_PaperCode,a.dec_Amount,a.dt_EndTime,a.Ing_LastNum,a.dt_StartTime
+                        FROM T_CouponDetails a
+                        INNER JOIN T_CouponType b on a.Ing_CouponTypeID=b.Ing_CouponTypeID
+                        INNER JOIN T_CouponRange c ON b.Ing_CouponTypeID=c.Ing_CouponTypeID
+                    left join T_Master d on d.Ing_Pk_MasterID=120178
+                        WHERE b.Ing_type=1 AND a.Ing_VipcardInfoID=99119802 and a.Ing_Sta=1 AND a.Ing_LastNum>0
+                        AND c.Ing_StoreID=180 AND (','+c.str_RoomCode+',' like '%,单间,%' or ','+c.str_RoomCode+',' like '%,0,%')
+                        AND isnull(a.dec_Amount,0)<>0 AND isnull(a.dec_Amount,0)<158.00 and 1=1 
+整理过的sql:select '门市价' as str_RateID,isnull(d.str_InterType,'ALL') as str_InterType, b.str_PaperName,b.str_SendType,
+                          a.Ing_PaperID,a.str_PaperCode,a.dec_Amount,a.dt_EndTime,a.Ing_LastNum,a.dt_StartTime
+                        FROM T_CouponDetails a
+                        INNER JOIN T_CouponType b on a.Ing_CouponTypeID=b.Ing_CouponTypeID
+                        INNER JOIN T_CouponRange c ON b.Ing_CouponTypeID=c.Ing_CouponTypeID
+                    left join T_Master d on d.Ing_Pk_MasterID=120178
+                        WHERE b.Ing_type=1 AND a.Ing_VipcardInfoID=99119802 and a.Ing_Sta=1 AND a.Ing_LastNum>0
+                        AND c.Ing_StoreID=180 AND (','+c.str_RoomCode+',' like '%,单间,%' or ','+c.str_RoomCode+',' like '%,0,%')
+                        AND isnull(a.dec_Amount,0)<>0 AND isnull(a.dec_Amount,0)<158.00 and 1=1 
+参数:
+
+********************************************
+异常时间:2018-01-04 17:26:09,837 
+线程编号:6 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 17:26:36,293 
+线程编号:7 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 17:28:24,394 
+线程编号:8 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:sue:测试,当前主单id:120178,首住主单id:0,当前房型:单间,当前房型价格:0,会员卡id:99119802
+********************************************
+异常时间:2018-01-04 17:28:24,565 
+线程编号:8 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'dbo.T_ContinueInter' 无效。(失败)
+参数化sql:SELECT TOP 1 * FROM dbo.T_ContinueInter a WHERE a.Ing_MasterID=120178 AND ISNULL(a.Ing_type,0)=0 ORDER BY a.Ing_pkid DESC
+整理过的sql:SELECT TOP 1 * FROM dbo.T_ContinueInter a WHERE a.Ing_MasterID=120178 AND ISNULL(a.Ing_type,0)=0 ORDER BY a.Ing_pkid DESC
+参数:
+
+********************************************
+异常时间:2018-01-04 17:28:24,768 
+线程编号:8 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_CouponRange' 无效。(失败)
+参数化sql:select '门市价' as str_RateID,isnull(d.str_InterType,'ALL') as str_InterType, b.str_PaperName,b.str_SendType,
+                          a.Ing_PaperID,a.str_PaperCode,a.dec_Amount,a.dt_EndTime,a.Ing_LastNum,a.dt_StartTime
+                        FROM T_CouponDetails a
+                        INNER JOIN T_CouponType b on a.Ing_CouponTypeID=b.Ing_CouponTypeID
+                        INNER JOIN T_CouponRange c ON b.Ing_CouponTypeID=c.Ing_CouponTypeID
+                    left join T_Master d on d.Ing_Pk_MasterID=120178
+                        WHERE b.Ing_type=0 AND a.Ing_VipcardInfoID=99119802 and a.Ing_Sta=1 AND a.Ing_LastNum>0
+                        AND c.Ing_StoreID=180 AND (','+c.str_RoomCode+',' like '%,单间,%' or ','+c.str_RoomCode+',' like '%,0,%')
+                        AND isnull(a.dec_Amount,0)<>0 AND isnull(a.dec_Amount,0)<158.00AND DATEDIFF(DAY,ISNULL(a.dt_StartTime,GETDATE()),GETDATE())>=0  and DATEDIFF(DAY,GETDATE(),ISNULL(a.dt_EndTime,GETDATE()))>=0
+整理过的sql:select '门市价' as str_RateID,isnull(d.str_InterType,'ALL') as str_InterType, b.str_PaperName,b.str_SendType,
+                          a.Ing_PaperID,a.str_PaperCode,a.dec_Amount,a.dt_EndTime,a.Ing_LastNum,a.dt_StartTime
+                        FROM T_CouponDetails a
+                        INNER JOIN T_CouponType b on a.Ing_CouponTypeID=b.Ing_CouponTypeID
+                        INNER JOIN T_CouponRange c ON b.Ing_CouponTypeID=c.Ing_CouponTypeID
+                    left join T_Master d on d.Ing_Pk_MasterID=120178
+                        WHERE b.Ing_type=0 AND a.Ing_VipcardInfoID=99119802 and a.Ing_Sta=1 AND a.Ing_LastNum>0
+                        AND c.Ing_StoreID=180 AND (','+c.str_RoomCode+',' like '%,单间,%' or ','+c.str_RoomCode+',' like '%,0,%')
+                        AND isnull(a.dec_Amount,0)<>0 AND isnull(a.dec_Amount,0)<158.00AND DATEDIFF(DAY,ISNULL(a.dt_StartTime,GETDATE()),GETDATE())>=0  and DATEDIFF(DAY,GETDATE(),ISNULL(a.dt_EndTime,GETDATE()))>=0
+参数:
+
+********************************************
+异常时间:2018-01-04 17:29:08,014 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 17:29:15,001 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:sue:测试,当前主单id:120178,首住主单id:0,当前房型:单间,当前房型价格:0,会员卡id:99119802
+********************************************
+异常时间:2018-01-04 17:29:15,142 
+线程编号:10 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'dbo.T_ContinueInter' 无效。(失败)
+参数化sql:SELECT TOP 1 * FROM dbo.T_ContinueInter a WHERE a.Ing_MasterID=120178 AND ISNULL(a.Ing_type,0)=0 ORDER BY a.Ing_pkid DESC
+整理过的sql:SELECT TOP 1 * FROM dbo.T_ContinueInter a WHERE a.Ing_MasterID=120178 AND ISNULL(a.Ing_type,0)=0 ORDER BY a.Ing_pkid DESC
+参数:
+
+********************************************
+异常时间:2018-01-04 17:29:15,286 
+线程编号:10 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_CouponRange' 无效。(失败)
+参数化sql:select '门市价' as str_RateID,isnull(d.str_InterType,'ALL') as str_InterType, b.str_PaperName,b.str_SendType,
+                          a.Ing_PaperID,a.str_PaperCode,a.dec_Amount,a.dt_EndTime,a.Ing_LastNum,a.dt_StartTime
+                        FROM T_CouponDetails a
+                        INNER JOIN T_CouponType b on a.Ing_CouponTypeID=b.Ing_CouponTypeID
+                        INNER JOIN T_CouponRange c ON b.Ing_CouponTypeID=c.Ing_CouponTypeID
+                    left join T_Master d on d.Ing_Pk_MasterID=120178
+                        WHERE b.Ing_type=0 AND a.Ing_VipcardInfoID=99119802 and a.Ing_Sta=1 AND a.Ing_LastNum>0
+                        AND c.Ing_StoreID=180 AND (','+c.str_RoomCode+',' like '%,单间,%' or ','+c.str_RoomCode+',' like '%,0,%')
+                        AND isnull(a.dec_Amount,0)<>0 AND isnull(a.dec_Amount,0)<158.00AND DATEDIFF(DAY,ISNULL(a.dt_StartTime,GETDATE()),GETDATE())>=0  and DATEDIFF(DAY,GETDATE(),ISNULL(a.dt_EndTime,GETDATE()))>=0
+整理过的sql:select '门市价' as str_RateID,isnull(d.str_InterType,'ALL') as str_InterType, b.str_PaperName,b.str_SendType,
+                          a.Ing_PaperID,a.str_PaperCode,a.dec_Amount,a.dt_EndTime,a.Ing_LastNum,a.dt_StartTime
+                        FROM T_CouponDetails a
+                        INNER JOIN T_CouponType b on a.Ing_CouponTypeID=b.Ing_CouponTypeID
+                        INNER JOIN T_CouponRange c ON b.Ing_CouponTypeID=c.Ing_CouponTypeID
+                    left join T_Master d on d.Ing_Pk_MasterID=120178
+                        WHERE b.Ing_type=0 AND a.Ing_VipcardInfoID=99119802 and a.Ing_Sta=1 AND a.Ing_LastNum>0
+                        AND c.Ing_StoreID=180 AND (','+c.str_RoomCode+',' like '%,单间,%' or ','+c.str_RoomCode+',' like '%,0,%')
+                        AND isnull(a.dec_Amount,0)<>0 AND isnull(a.dec_Amount,0)<158.00AND DATEDIFF(DAY,ISNULL(a.dt_StartTime,GETDATE()),GETDATE())>=0  and DATEDIFF(DAY,GETDATE(),ISNULL(a.dt_EndTime,GETDATE()))>=0
+参数:
+
+********************************************
+异常时间:2018-01-04 17:29:33,106 
+线程编号:5 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 17:29:35,076 
+线程编号:5 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:sue:测试,当前主单id:120178,首住主单id:0,当前房型:单间,当前房型价格:0,会员卡id:99119802
+********************************************
+异常时间:2018-01-04 17:29:35,204 
+线程编号:5 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'dbo.T_ContinueInter' 无效。(失败)
+参数化sql:SELECT TOP 1 * FROM dbo.T_ContinueInter a WHERE a.Ing_MasterID=120178 AND ISNULL(a.Ing_type,0)=0 ORDER BY a.Ing_pkid DESC
+整理过的sql:SELECT TOP 1 * FROM dbo.T_ContinueInter a WHERE a.Ing_MasterID=120178 AND ISNULL(a.Ing_type,0)=0 ORDER BY a.Ing_pkid DESC
+参数:
+
+********************************************
+异常时间:2018-01-04 17:29:35,341 
+线程编号:5 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_CouponRange' 无效。(失败)
+参数化sql:select '门市价' as str_RateID,isnull(d.str_InterType,'ALL') as str_InterType, b.str_PaperName,b.str_SendType,
+                          a.Ing_PaperID,a.str_PaperCode,a.dec_Amount,a.dt_EndTime,a.Ing_LastNum,a.dt_StartTime
+                        FROM T_CouponDetails a
+                        INNER JOIN T_CouponType b on a.Ing_CouponTypeID=b.Ing_CouponTypeID
+                        INNER JOIN T_CouponRange c ON b.Ing_CouponTypeID=c.Ing_CouponTypeID
+                    left join T_Master d on d.Ing_Pk_MasterID=120178
+                        WHERE b.Ing_type=0 AND a.Ing_VipcardInfoID=99119802 and a.Ing_Sta=1 AND a.Ing_LastNum>0
+                        AND c.Ing_StoreID=180 AND (','+c.str_RoomCode+',' like '%,单间,%' or ','+c.str_RoomCode+',' like '%,0,%')
+                        AND isnull(a.dec_Amount,0)<>0 AND isnull(a.dec_Amount,0)<158.00AND DATEDIFF(DAY,ISNULL(a.dt_StartTime,GETDATE()),GETDATE())>=0  and DATEDIFF(DAY,GETDATE(),ISNULL(a.dt_EndTime,GETDATE()))>=0
+整理过的sql:select '门市价' as str_RateID,isnull(d.str_InterType,'ALL') as str_InterType, b.str_PaperName,b.str_SendType,
+                          a.Ing_PaperID,a.str_PaperCode,a.dec_Amount,a.dt_EndTime,a.Ing_LastNum,a.dt_StartTime
+                        FROM T_CouponDetails a
+                        INNER JOIN T_CouponType b on a.Ing_CouponTypeID=b.Ing_CouponTypeID
+                        INNER JOIN T_CouponRange c ON b.Ing_CouponTypeID=c.Ing_CouponTypeID
+                    left join T_Master d on d.Ing_Pk_MasterID=120178
+                        WHERE b.Ing_type=0 AND a.Ing_VipcardInfoID=99119802 and a.Ing_Sta=1 AND a.Ing_LastNum>0
+                        AND c.Ing_StoreID=180 AND (','+c.str_RoomCode+',' like '%,单间,%' or ','+c.str_RoomCode+',' like '%,0,%')
+                        AND isnull(a.dec_Amount,0)<>0 AND isnull(a.dec_Amount,0)<158.00AND DATEDIFF(DAY,ISNULL(a.dt_StartTime,GETDATE()),GETDATE())>=0  and DATEDIFF(DAY,GETDATE(),ISNULL(a.dt_EndTime,GETDATE()))>=0
+参数:
+
+********************************************
+异常时间:2018-01-04 17:30:10,870 
+线程编号:11 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 17:30:42,728 
+线程编号:11 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:sue:测试,当前主单id:120178,首住主单id:0,当前房型:单间,当前房型价格:0,会员卡id:99119802
+********************************************
+异常时间:2018-01-04 17:31:21,505 
+线程编号:11 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'dbo.T_ContinueInter' 无效。(失败)
+参数化sql:SELECT TOP 1 * FROM dbo.T_ContinueInter a WHERE a.Ing_MasterID=120178 AND ISNULL(a.Ing_type,0)=0 ORDER BY a.Ing_pkid DESC
+整理过的sql:SELECT TOP 1 * FROM dbo.T_ContinueInter a WHERE a.Ing_MasterID=120178 AND ISNULL(a.Ing_type,0)=0 ORDER BY a.Ing_pkid DESC
+参数:
+
+********************************************
+异常时间:2018-01-04 17:31:48,011 
+线程编号:11 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_CouponRange' 无效。(失败)
+参数化sql:select '门市价' as str_RateID,isnull(d.str_InterType,'ALL') as str_InterType, b.str_PaperName,b.str_SendType,
+                          a.Ing_PaperID,a.str_PaperCode,a.dec_Amount,a.dt_EndTime,a.Ing_LastNum,a.dt_StartTime
+                        FROM T_CouponDetails a
+                        INNER JOIN T_CouponType b on a.Ing_CouponTypeID=b.Ing_CouponTypeID
+                        INNER JOIN T_CouponRange c ON b.Ing_CouponTypeID=c.Ing_CouponTypeID
+                    left join T_Master d on d.Ing_Pk_MasterID=120178
+                        WHERE b.Ing_type=0 AND a.Ing_VipcardInfoID=99119802 and a.Ing_Sta=1 AND a.Ing_LastNum>0
+                        AND c.Ing_StoreID=180 AND (','+c.str_RoomCode+',' like '%,单间,%' or ','+c.str_RoomCode+',' like '%,0,%')
+                        AND isnull(a.dec_Amount,0)<>0 AND isnull(a.dec_Amount,0)<158.00AND DATEDIFF(DAY,ISNULL(a.dt_StartTime,GETDATE()),GETDATE())>=0  and DATEDIFF(DAY,GETDATE(),ISNULL(a.dt_EndTime,GETDATE()))>=0
+整理过的sql:select '门市价' as str_RateID,isnull(d.str_InterType,'ALL') as str_InterType, b.str_PaperName,b.str_SendType,
+                          a.Ing_PaperID,a.str_PaperCode,a.dec_Amount,a.dt_EndTime,a.Ing_LastNum,a.dt_StartTime
+                        FROM T_CouponDetails a
+                        INNER JOIN T_CouponType b on a.Ing_CouponTypeID=b.Ing_CouponTypeID
+                        INNER JOIN T_CouponRange c ON b.Ing_CouponTypeID=c.Ing_CouponTypeID
+                    left join T_Master d on d.Ing_Pk_MasterID=120178
+                        WHERE b.Ing_type=0 AND a.Ing_VipcardInfoID=99119802 and a.Ing_Sta=1 AND a.Ing_LastNum>0
+                        AND c.Ing_StoreID=180 AND (','+c.str_RoomCode+',' like '%,单间,%' or ','+c.str_RoomCode+',' like '%,0,%')
+                        AND isnull(a.dec_Amount,0)<>0 AND isnull(a.dec_Amount,0)<158.00AND DATEDIFF(DAY,ISNULL(a.dt_StartTime,GETDATE()),GETDATE())>=0  and DATEDIFF(DAY,GETDATE(),ISNULL(a.dt_EndTime,GETDATE()))>=0
+参数:
+
+********************************************
+异常时间:2018-01-04 17:34:33,036 
+线程编号:7 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-04 17:34:35,183 
+线程编号:7 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:sue:测试,当前主单id:120178,首住主单id:0,当前房型:单间,当前房型价格:0,会员卡id:99119802
+********************************************
+异常时间:2018-01-04 17:34:35,315 
+线程编号:7 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'dbo.T_ContinueInter' 无效。(失败)
+参数化sql:SELECT TOP 1 * FROM dbo.T_ContinueInter a WHERE a.Ing_MasterID=120178 AND ISNULL(a.Ing_type,0)=0 ORDER BY a.Ing_pkid DESC
+整理过的sql:SELECT TOP 1 * FROM dbo.T_ContinueInter a WHERE a.Ing_MasterID=120178 AND ISNULL(a.Ing_type,0)=0 ORDER BY a.Ing_pkid DESC
+参数:
+
+********************************************
+异常时间:2018-01-04 17:34:35,484 
+线程编号:7 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_CouponRange' 无效。(失败)
+参数化sql:select '门市价' as str_RateID,isnull(d.str_InterType,'ALL') as str_InterType, b.str_PaperName,b.str_SendType,
+                          a.Ing_PaperID,a.str_PaperCode,a.dec_Amount,a.dt_EndTime,a.Ing_LastNum,a.dt_StartTime
+                        FROM T_CouponDetails a
+                        INNER JOIN T_CouponType b on a.Ing_CouponTypeID=b.Ing_CouponTypeID
+                        INNER JOIN T_CouponRange c ON b.Ing_CouponTypeID=c.Ing_CouponTypeID
+                    left join T_Master d on d.Ing_Pk_MasterID=120178
+                        WHERE b.Ing_type=0 AND a.Ing_VipcardInfoID=99119802 and a.Ing_Sta=1 AND a.Ing_LastNum>0
+                        AND c.Ing_StoreID=180 AND (','+c.str_RoomCode+',' like '%,单间,%' or ','+c.str_RoomCode+',' like '%,0,%')
+                        AND isnull(a.dec_Amount,0)<>0 AND isnull(a.dec_Amount,0)<158.00AND DATEDIFF(DAY,ISNULL(a.dt_StartTime,GETDATE()),GETDATE())>=0  and DATEDIFF(DAY,GETDATE(),ISNULL(a.dt_EndTime,GETDATE()))>=0
+整理过的sql:select '门市价' as str_RateID,isnull(d.str_InterType,'ALL') as str_InterType, b.str_PaperName,b.str_SendType,
+                          a.Ing_PaperID,a.str_PaperCode,a.dec_Amount,a.dt_EndTime,a.Ing_LastNum,a.dt_StartTime
+                        FROM T_CouponDetails a
+                        INNER JOIN T_CouponType b on a.Ing_CouponTypeID=b.Ing_CouponTypeID
+                        INNER JOIN T_CouponRange c ON b.Ing_CouponTypeID=c.Ing_CouponTypeID
+                    left join T_Master d on d.Ing_Pk_MasterID=120178
+                        WHERE b.Ing_type=0 AND a.Ing_VipcardInfoID=99119802 and a.Ing_Sta=1 AND a.Ing_LastNum>0
+                        AND c.Ing_StoreID=180 AND (','+c.str_RoomCode+',' like '%,单间,%' or ','+c.str_RoomCode+',' like '%,0,%')
+                        AND isnull(a.dec_Amount,0)<>0 AND isnull(a.dec_Amount,0)<158.00AND DATEDIFF(DAY,ISNULL(a.dt_StartTime,GETDATE()),GETDATE())>=0  and DATEDIFF(DAY,GETDATE(),ISNULL(a.dt_EndTime,GETDATE()))>=0
+参数:
+
+********************************************
+异常时间:2018-01-04 17:34:39,915 
+线程编号:24 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_WxPayResult' 无效。(失败)
+参数化sql:select * from T_WxPayResult where Ing_ResultID='0'
+整理过的sql:select * from T_WxPayResult where Ing_ResultID='0'
+参数:
+
+********************************************
+异常时间:2018-01-04 17:34:40,092 
+线程编号:24 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_WxPayResult' 无效。(失败)
+参数化sql:select * from T_WxPayResult where 1=2
+整理过的sql:select * from T_WxPayResult where 1=2
+参数:
+
+********************************************
+异常时间:2018-01-04 17:37:33,631 
+线程编号:25 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_WxPayResult' 无效。(失败)
+参数化sql:select * from T_WxPayResult where Ing_ResultID='0'
+整理过的sql:select * from T_WxPayResult where Ing_ResultID='0'
+参数:
+
+********************************************
+异常时间:2018-01-04 17:37:33,724 
+线程编号:25 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_WxPayResult' 无效。(失败)
+参数化sql:select * from T_WxPayResult where 1=2
+整理过的sql:select * from T_WxPayResult where 1=2
+参数:
+
+********************************************
+异常时间:2018-01-04 17:38:01,063 
+线程编号:25 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_WxPayResult' 无效。(失败)
+参数化sql:select * from T_WxPayResult where Ing_ResultID='0'
+整理过的sql:select * from T_WxPayResult where Ing_ResultID='0'
+参数:
+
+********************************************
+异常时间:2018-01-04 17:38:01,151 
+线程编号:25 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_WxPayResult' 无效。(失败)
+参数化sql:select * from T_WxPayResult where 1=2
+整理过的sql:select * from T_WxPayResult where 1=2
+参数:
+
+********************************************

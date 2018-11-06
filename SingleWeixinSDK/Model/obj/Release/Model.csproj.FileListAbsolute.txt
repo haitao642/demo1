@@ -1,0 +1,6 @@
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Model\bin\Release\Model.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Model\bin\Release\Model.pdb
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Model\bin\Release\Newtonsoft.Json.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Model\obj\Release\Model.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Model\obj\Release\Model.pdb
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Model\obj\Release\Model.csprojResolveAssemblyReference.cache

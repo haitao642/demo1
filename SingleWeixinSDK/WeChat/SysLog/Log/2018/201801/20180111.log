@@ -1,0 +1,174 @@
+异常时间:2018-01-11 10:11:33,978 
+线程编号:26 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-11 10:11:34,006 
+线程编号:26 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:HotelDetail:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-11 10:11:34,010 
+线程编号:26 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:url:http://wechat1.boozhotel.com/Hotel/HotelDetail?storeid=180
+********************************************
+异常时间:2018-01-11 10:11:34,450 
+线程编号:26 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:jsTickect:bxLdikRXVbTPdHSM05e5uykGvWeaLhbdam_JAwMvXUScqwlYrdeiuTTs20_YU6mG23FR80V8Y-nnDOBI9tNOQQ
+********************************************
+异常时间:2018-01-11 14:24:53,653 
+线程编号:19 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-11 14:24:53,680 
+线程编号:19 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:HotelDetail:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-11 14:24:53,698 
+线程编号:19 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:url:http://wechat1.boozhotel.com/Hotel/HotelDetail?storeid=180
+********************************************
+异常时间:2018-01-11 14:24:54,135 
+线程编号:19 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:jsTickect:bxLdikRXVbTPdHSM05e5uykGvWeaLhbdam_JAwMvXUTujTGdcGsNtukVmAoncx7j3IJXQcAKFaDwUT7dR2OR0g
+********************************************
+异常时间:2018-01-11 14:43:27,358 
+线程编号:21 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-11 14:43:27,381 
+线程编号:21 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:HotelDetail:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-11 14:43:27,386 
+线程编号:21 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:url:http://wechat1.boozhotel.com/Hotel/HotelDetail?storeid=180
+********************************************
+异常时间:2018-01-11 14:43:27,525 
+线程编号:21 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:jsTickect:bxLdikRXVbTPdHSM05e5uykGvWeaLhbdam_JAwMvXUTujTGdcGsNtukVmAoncx7j3IJXQcAKFaDwUT7dR2OR0g
+********************************************
+异常时间:2018-01-11 14:51:45,697 
+线程编号:5 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-11 14:51:45,715 
+线程编号:5 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:HotelDetail:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-11 14:51:45,719 
+线程编号:5 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:url:http://wechat1.boozhotel.com/Hotel/HotelDetail?storeid=179
+********************************************
+异常时间:2018-01-11 14:51:45,860 
+线程编号:5 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:微信获取token失败,原因:appid不能为空
+********************************************
+异常时间:2018-01-11 14:51:45,864 
+线程编号:5 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:jsTickect:
+********************************************
+异常时间:2018-01-11 14:52:09,438 
+线程编号:5 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-11 14:52:09,439 
+线程编号:5 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:HotelDetail:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-11 14:52:09,442 
+线程编号:5 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:url:http://wechat1.boozhotel.com/Hotel/HotelDetail?storeid=180
+********************************************
+异常时间:2018-01-11 14:52:09,479 
+线程编号:5 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:jsTickect:bxLdikRXVbTPdHSM05e5uykGvWeaLhbdam_JAwMvXUTujTGdcGsNtukVmAoncx7j3IJXQcAKFaDwUT7dR2OR0g
+********************************************
+异常时间:2018-01-11 17:28:04,537 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-11 17:28:04,583 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:HotelDetail:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-11 17:28:04,600 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:url:http://wechat1.boozhotel.com/Hotel/HotelDetail?storeid=180
+********************************************
+异常时间:2018-01-11 17:28:05,367 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:jsTickect:bxLdikRXVbTPdHSM05e5uykGvWeaLhbdam_JAwMvXUQPOUfGS2sjPxa-nCmtbDpAscKoaN0Rf3TgPSDz6ykROQ
+********************************************
+异常时间:2018-01-11 17:28:28,181 
+线程编号:12 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-11 17:28:28,181 
+线程编号:12 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:HotelDetail:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-11 17:28:28,182 
+线程编号:12 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:url:http://wechat1.boozhotel.com/Hotel/HotelDetail?storeid=180
+********************************************
+异常时间:2018-01-11 17:28:28,230 
+线程编号:12 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:jsTickect:bxLdikRXVbTPdHSM05e5uykGvWeaLhbdam_JAwMvXUQPOUfGS2sjPxa-nCmtbDpAscKoaN0Rf3TgPSDz6ykROQ
+********************************************

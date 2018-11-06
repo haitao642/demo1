@@ -1,0 +1,13 @@
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Public\bin\Debug\log4net.config
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Public\bin\Debug\Public.dll.config
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Public\bin\Debug\Public.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Public\bin\Debug\Public.pdb
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Public\bin\Debug\Bee.Web.Biz.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Public\bin\Debug\Bee.Web.Data.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Public\bin\Debug\EntityFramework.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Public\bin\Debug\Ionic.Zlib.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Public\bin\Debug\log4net.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Public\bin\Debug\MySql.Data.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Public\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Public\obj\Debug\Public.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Public\obj\Debug\Public.pdb

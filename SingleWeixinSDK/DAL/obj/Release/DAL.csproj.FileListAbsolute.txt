@@ -1,0 +1,14 @@
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\DAL\bin\Release\log4net.config
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\DAL\bin\Release\DAL.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\DAL\bin\Release\DAL.pdb
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\DAL\bin\Release\Bee.Web.Biz.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\DAL\bin\Release\Bee.Web.Data.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\DAL\bin\Release\Model.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\DAL\bin\Release\Newtonsoft.Json.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\DAL\bin\Release\Public.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\DAL\bin\Release\log4net.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\DAL\bin\Release\Model.pdb
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\DAL\bin\Release\Public.pdb
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\DAL\obj\Release\DAL.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\DAL\obj\Release\DAL.pdb

@@ -1,0 +1,12 @@
+异常时间:2018-01-03 13:30:10,180 
+线程编号:7 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:openid:1234
+********************************************
+异常时间:2018-01-03 13:30:12,532 
+线程编号:7 
+异常信息:所在文件:C:\Users\mc\documents\visual studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:token:5_xgaNRuji4V2XkOhRVTJxElq88-4BJRevaImXJGA_tHgO3SypeaKg_1ehUGC6OQR5mNBpd0Zm6GDxsB08Dp0GAR22WEtZbuPbqXg2UcEhd1JJkhx9vLrY53D52S2HuJGnk2bl3Iscpf7ScIk2YXRgCGADCW,openid:1234
+********************************************

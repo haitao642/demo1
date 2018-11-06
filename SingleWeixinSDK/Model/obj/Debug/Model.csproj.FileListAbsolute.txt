@@ -1,0 +1,5 @@
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Model\bin\Debug\Model.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Model\bin\Debug\Model.pdb
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Model\obj\Debug\Model.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Model\obj\Debug\Model.pdb

@@ -1,0 +1,1208 @@
+异常时间:2018-01-09 09:05:50,267 
+线程编号:10 
+异常信息:所在文件:C:\Users\Administrator\Desktop\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 09:05:50,267 
+线程编号:7 
+异常信息:所在文件:C:\Users\Administrator\Desktop\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 09:06:07,378 
+线程编号:12 
+异常信息:所在文件:C:\Users\Administrator\Desktop\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 09:07:48,281 
+线程编号:10 
+异常信息:所在文件:C:\Users\Administrator\Desktop\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 09:07:53,889 
+线程编号:7 
+异常信息:所在文件:C:\Users\Administrator\Desktop\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 09:08:26,403 
+线程编号:7 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_WxChargeMon' 无效。(失败)
+参数化sql:select * from T_WxChargeMon
+整理过的sql:select * from T_WxChargeMon
+参数:
+
+********************************************
+异常时间:2018-01-09 09:09:56,780 
+线程编号:6 
+异常信息:所在文件:C:\Users\Administrator\Desktop\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 09:09:59,903 
+线程编号:6 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_WxChargeMon' 无效。(失败)
+参数化sql:select * from T_WxChargeMon
+整理过的sql:select * from T_WxChargeMon
+参数:
+
+********************************************
+异常时间:2018-01-09 09:12:13,090 
+线程编号:10 
+异常信息:所在文件:C:\Users\Administrator\Desktop\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 09:12:15,231 
+线程编号:10 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_WxChargeMon' 无效。(失败)
+参数化sql:select * from T_WxChargeMon
+整理过的sql:select * from T_WxChargeMon
+参数:
+
+********************************************
+异常时间:2018-01-09 09:12:51,703 
+线程编号:17 
+异常信息:所在文件:C:\Users\Administrator\Desktop\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 09:12:55,125 
+线程编号:17 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_WxChargeMon' 无效。(失败)
+参数化sql:select * from T_WxChargeMon
+整理过的sql:select * from T_WxChargeMon
+参数:
+
+********************************************
+异常时间:2018-01-09 09:14:38,757 
+线程编号:29 
+异常信息:所在文件:C:\Users\Administrator\Desktop\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 09:14:38,982 
+线程编号:29 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_WxChargeMon' 无效。(失败)
+参数化sql:select * from T_WxChargeMon
+整理过的sql:select * from T_WxChargeMon
+参数:
+
+********************************************
+异常时间:2018-01-09 09:18:52,336 
+线程编号:5 
+异常信息:所在文件:C:\Users\Administrator\Desktop\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 09:18:52,643 
+线程编号:5 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_WxChargeMon' 无效。(失败)
+参数化sql:select * from T_WxChargeMon
+整理过的sql:select * from T_WxChargeMon
+参数:
+
+********************************************
+异常时间:2018-01-09 09:20:17,314 
+线程编号:36 
+异常信息:所在文件:C:\Users\Administrator\Desktop\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 09:20:29,758 
+线程编号:36 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_WxChargeMon' 无效。(失败)
+参数化sql:select * from T_WxChargeMon
+整理过的sql:select * from T_WxChargeMon
+参数:
+
+********************************************
+异常时间:2018-01-09 09:23:02,843 
+线程编号:39 
+异常信息:所在文件:C:\Users\Administrator\Desktop\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 09:23:04,761 
+线程编号:39 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_WxChargeMon' 无效。(失败)
+参数化sql:select * from T_WxChargeMon
+整理过的sql:select * from T_WxChargeMon
+参数:
+
+********************************************
+异常时间:2018-01-09 09:23:41,033 
+线程编号:40 
+异常信息:所在文件:C:\Users\Administrator\Desktop\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 09:23:43,309 
+线程编号:40 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_WxChargeMon' 无效。(失败)
+参数化sql:select * from T_WxChargeMon
+整理过的sql:select * from T_WxChargeMon
+参数:
+
+********************************************
+异常时间:2018-01-09 09:24:27,170 
+线程编号:10 
+异常信息:所在文件:C:\Users\Administrator\Desktop\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 09:24:30,342 
+线程编号:10 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_WxChargeMon' 无效。(失败)
+参数化sql:select * from T_WxChargeMon
+整理过的sql:select * from T_WxChargeMon
+参数:
+
+********************************************
+异常时间:2018-01-09 09:25:43,677 
+线程编号:40 
+异常信息:所在文件:C:\Users\Administrator\Desktop\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 09:25:47,329 
+线程编号:40 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_WxChargeMon' 无效。(失败)
+参数化sql:select * from T_WxChargeMon
+整理过的sql:select * from T_WxChargeMon
+参数:
+
+********************************************
+异常时间:2018-01-09 09:27:12,344 
+线程编号:6 
+异常信息:所在文件:C:\Users\Administrator\Desktop\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 09:27:15,097 
+线程编号:6 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_WxChargeMon' 无效。(失败)
+参数化sql:select * from T_WxChargeMon
+整理过的sql:select * from T_WxChargeMon
+参数:
+
+********************************************
+异常时间:2018-01-09 09:28:24,791 
+线程编号:22 
+异常信息:所在文件:C:\Users\Administrator\Desktop\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:微信服务下预定单结果：{ prepay_id = wx20180109092758cbaf7b81f40890357507, trade_type = JSAPI, sign = D3DC642018AC0DEBB7027ABF87B52AF7, paysign = 4B7874F9AE54E5290B4EC23DBBBA4FA6, nonce_str = LBVSg690XDqCrOfU, return_code = SUCCESS, return_msg =  }
+********************************************
+异常时间:2018-01-09 09:29:34,536 
+线程编号:39 
+异常信息:所在文件:C:\Users\Administrator\Desktop\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 09:29:35,988 
+线程编号:39 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_WxChargeMon' 无效。(失败)
+参数化sql:select * from T_WxChargeMon
+整理过的sql:select * from T_WxChargeMon
+参数:
+
+********************************************
+异常时间:2018-01-09 09:29:46,632 
+线程编号:39 
+异常信息:所在文件:C:\Users\Administrator\Desktop\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:微信服务下预定单结果：{ prepay_id = wx20180109092946e71c1a85240993205428, trade_type = JSAPI, sign = 9E3CDBA4A4D641C3F16612F9910FE574, paysign = B0FB5C26FCFF500A2DE7E7B65B882AB9, nonce_str = IFybWYZ833OfhHcB, return_code = SUCCESS, return_msg =  }
+********************************************
+异常时间:2018-01-09 09:34:17,680 
+线程编号:17 
+异常信息:所在文件:C:\Users\Administrator\Desktop\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 09:34:20,584 
+线程编号:17 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_WxChargeMon' 无效。(失败)
+参数化sql:select * from T_WxChargeMon
+整理过的sql:select * from T_WxChargeMon
+参数:
+
+********************************************
+异常时间:2018-01-09 09:35:52,027 
+线程编号:14 
+异常信息:所在文件:C:\Users\Administrator\Desktop\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 09:35:52,194 
+线程编号:14 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_WxChargeMon' 无效。(失败)
+参数化sql:select * from T_WxChargeMon
+整理过的sql:select * from T_WxChargeMon
+参数:
+
+********************************************
+异常时间:2018-01-09 09:36:23,349 
+线程编号:20 
+异常信息:所在文件:C:\Users\Administrator\Desktop\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 09:36:23,510 
+线程编号:20 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_WxChargeMon' 无效。(失败)
+参数化sql:select * from T_WxChargeMon
+整理过的sql:select * from T_WxChargeMon
+参数:
+
+********************************************
+异常时间:2018-01-09 09:37:26,843 
+线程编号:25 
+异常信息:所在文件:C:\Users\Administrator\Desktop\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 09:37:27,011 
+线程编号:25 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_WxChargeMon' 无效。(失败)
+参数化sql:select * from T_WxChargeMon
+整理过的sql:select * from T_WxChargeMon
+参数:
+
+********************************************
+异常时间:2018-01-09 09:37:52,198 
+线程编号:20 
+异常信息:所在文件:C:\Users\Administrator\Desktop\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 09:37:52,364 
+线程编号:20 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_WxChargeMon' 无效。(失败)
+参数化sql:select * from T_WxChargeMon
+整理过的sql:select * from T_WxChargeMon
+参数:
+
+********************************************
+异常时间:2018-01-09 09:38:13,917 
+线程编号:44 
+异常信息:所在文件:C:\Users\Administrator\Desktop\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 09:38:14,092 
+线程编号:44 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_WxChargeMon' 无效。(失败)
+参数化sql:select * from T_WxChargeMon
+整理过的sql:select * from T_WxChargeMon
+参数:
+
+********************************************
+异常时间:2018-01-09 09:38:23,967 
+线程编号:44 
+异常信息:所在文件:C:\Users\Administrator\Desktop\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:微信服务下预定单结果：{ prepay_id = wx20180109093823437f7a6c7e0269951041, trade_type = JSAPI, sign = EB98C5DB63D2F0B95373DFA5733744C0, paysign = C09E684C7CF8460D881FF9505CAEBE1B, nonce_str = rIIwZi9lBo34twdV, return_code = SUCCESS, return_msg =  }
+********************************************
+异常时间:2018-01-09 09:59:00,360 
+线程编号:11 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 09:59:00,877 
+线程编号:11 
+异常信息:所在文件:
+所在行号:0
+其它信息:对象名 'T_WxChargeMon' 无效。(失败)
+参数化sql:select * from T_WxChargeMon
+整理过的sql:select * from T_WxChargeMon
+参数:
+
+********************************************
+异常时间:2018-01-09 09:59:39,121 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:微信服务下预定单结果：{ prepay_id = wx20180109095938e009ffc0ae0364720756, trade_type = JSAPI, sign = F30C1DEE2919FFABE1B1433E7DF3DEA8, paysign = 6CE6B98B75CAD02686F7009E5B5A2690, nonce_str = z2LLQdzVRBsQuB25, return_code = SUCCESS, return_msg =  }
+********************************************
+异常时间:2018-01-09 10:43:34,398 
+线程编号:7 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 10:44:02,447 
+线程编号:7 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 10:44:09,865 
+线程编号:11 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 10:44:09,867 
+线程编号:11 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 10:44:10,200 
+线程编号:11 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:token:5_fYSMFYvMBvweoaGiatIvvd-ZNwDVQUQDAAT_URYbcETQegLRocfzvjObbVmFoM5FCnY30Xpme9w92AW-oBU6waVWtL3nyLFolQgAJjbZsnj31XCll1wAIoif0aTbZB4b1K0DBBsQKlRlAsD9UUUhCIAAAA,openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 10:44:14,821 
+线程编号:6 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 10:44:19,038 
+线程编号:11 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 10:44:45,875 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:微信服务下预定单结果：{ prepay_id = wx20180109104444fe8b33195b0379999446, trade_type = JSAPI, sign = DE8E48EEBF659503741A4C643211FF8F, paysign = 0E1121F53AAADE965861BC54F6880E43, nonce_str = ABYFPFfvoXKdmd7C, return_code = SUCCESS, return_msg =  }
+********************************************
+异常时间:2018-01-09 11:06:09,773 
+线程编号:8 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 11:06:15,034 
+线程编号:6 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 11:06:15,036 
+线程编号:6 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 11:06:15,323 
+线程编号:6 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:token:5_Jba0xhqrlhZxYGQL2HY2tiHfg9Gbm0VjBc5InQwsS7VkwlTEnzB9CFtAGB1nwYZFjmPq1JmJTMs-grQ5Yv0-SySbxKGAqBpwohno1_vGwtsejzdQVUlAMAj6CgAQPn6ggxPBwFTMlRyuI-EJXEMgCGAPWE,openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 11:06:17,931 
+线程编号:9 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 11:06:21,969 
+线程编号:9 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:微信服务下预定单结果：{ prepay_id = wx201801091106212ae6ebabb40079996174, trade_type = JSAPI, sign = A07EA08ABCBFF4E232FB82DF67C396B5, paysign = 7FF380B2A31FA9740FC50FA953271BCE, nonce_str = SqfjQChPgGnENNux, return_code = SUCCESS, return_msg =  }
+********************************************
+异常时间:2018-01-09 13:05:39,924 
+线程编号:9 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 13:05:40,964 
+线程编号:8 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 14:47:29,872 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 14:47:29,872 
+线程编号:9 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 14:50:06,641 
+线程编号:7 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 14:50:37,365 
+线程编号:7 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 14:52:24,576 
+线程编号:19 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:03:49,201 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:03:56,062 
+线程编号:7 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:04:56,230 
+线程编号:7 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:05:23,356 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:05:34,418 
+线程编号:6 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:05:35,253 
+线程编号:6 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:sue:测试,当前主单id:120187,首住主单id:0,当前房型:单间,当前房型价格:0,会员卡id:99119801
+********************************************
+异常时间:2018-01-09 15:05:48,867 
+线程编号:6 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:08:18,958 
+线程编号:16 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:08:37,725 
+线程编号:21 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:08:51,471 
+线程编号:6 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:08:53,427 
+线程编号:23 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:08:53,429 
+线程编号:23 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 15:08:53,596 
+线程编号:23 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:token:5_ADRLOlFs-cphH0xa-OmITXmi8g94vubdBlSGsLYnSkH5ZkM4Y_KQs-68g27fDRtIrMAeEq9fms3vXW2Oged9PlV8fb4J-XR2fxAevsyG5sxNGVll3sdWqZ4_L0hKxWuTnSCS0z8wKtg_aU0mUEBdCDAJTQ,openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 15:43:47,249 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:44:12,643 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:44:52,287 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:45:57,867 
+线程编号:8 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:46:34,675 
+线程编号:17 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:46:35,752 
+线程编号:17 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:46:35,754 
+线程编号:17 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 15:46:36,111 
+线程编号:17 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:token:5_4ScvIwPL0QVrDp4Fn9wbvg2I9DZkf1uZcYzNiddFmdy35VTqAxrRu3O0unikfIpNSboc-l_iH4x4lqVdygj3sET30wXEdRKkOF6bcdx-xciVjTQJN3OpP2cTIiK3r98CkgS44IHQt-GwgPdCQXQgCAAAHA,openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 15:46:42,595 
+线程编号:21 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:46:48,299 
+线程编号:21 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:47:23,693 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:48:37,949 
+线程编号:6 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:48:43,863 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:48:43,866 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 15:48:44,448 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:token:5_4ScvIwPL0QVrDp4Fn9wbvg2I9DZkf1uZcYzNiddFmdy35VTqAxrRu3O0unikfIpNSboc-l_iH4x4lqVdygj3sET30wXEdRKkOF6bcdx-xciVjTQJN3OpP2cTIiK3r98CkgS44IHQt-GwgPdCQXQgCAAAHA,openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 15:48:51,087 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:48:55,934 
+线程编号:11 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:50:10,896 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:50:27,368 
+线程编号:6 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:52:07,367 
+线程编号:7 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:52:13,205 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:52:13,207 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 15:52:13,476 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:token:5_4ScvIwPL0QVrDp4Fn9wbvg2I9DZkf1uZcYzNiddFmdy35VTqAxrRu3O0unikfIpNSboc-l_iH4x4lqVdygj3sET30wXEdRKkOF6bcdx-xciVjTQJN3OpP2cTIiK3r98CkgS44IHQt-GwgPdCQXQgCAAAHA,openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 15:52:15,841 
+线程编号:8 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:52:18,811 
+线程编号:9 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:55:24,961 
+线程编号:7 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:55:31,407 
+线程编号:4 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:57:11,867 
+线程编号:8 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:57:18,478 
+线程编号:6 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 15:58:49,015 
+线程编号:9 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:accessToken:5_4ScvIwPL0QVrDp4Fn9wbvg2I9DZkf1uZcYzNiddFmdy35VTqAxrRu3O0unikfIpNSboc-l_iH4x4lqVdygj3sET30wXEdRKkOF6bcdx-xciVjTQJN3OpP2cTIiK3r98CkgS44IHQt-GwgPdCQXQgCAAAHA
+********************************************
+异常时间:2018-01-09 16:11:20,007 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 16:11:32,902 
+线程编号:6 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 16:11:34,405 
+线程编号:6 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 16:11:34,407 
+线程编号:6 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 16:11:34,715 
+线程编号:6 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:token:5_4ScvIwPL0QVrDp4Fn9wbvg2I9DZkf1uZcYzNiddFmdy35VTqAxrRu3O0unikfIpNSboc-l_iH4x4lqVdygj3sET30wXEdRKkOF6bcdx-xciVjTQJN3OpP2cTIiK3r98CkgS44IHQt-GwgPdCQXQgCAAAHA,openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 16:11:36,595 
+线程编号:8 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 16:12:09,866 
+线程编号:8 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:accessToken:5_4ScvIwPL0QVrDp4Fn9wbvg2I9DZkf1uZcYzNiddFmdy35VTqAxrRu3O0unikfIpNSboc-l_iH4x4lqVdygj3sET30wXEdRKkOF6bcdx-xciVjTQJN3OpP2cTIiK3r98CkgS44IHQt-GwgPdCQXQgCAAAHA
+********************************************
+异常时间:2018-01-09 16:12:54,266 
+线程编号:18 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 16:12:54,267 
+线程编号:18 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 16:12:54,426 
+线程编号:18 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:token:5_4ScvIwPL0QVrDp4Fn9wbvg2I9DZkf1uZcYzNiddFmdy35VTqAxrRu3O0unikfIpNSboc-l_iH4x4lqVdygj3sET30wXEdRKkOF6bcdx-xciVjTQJN3OpP2cTIiK3r98CkgS44IHQt-GwgPdCQXQgCAAAHA,openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 16:12:55,952 
+线程编号:17 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 16:12:57,758 
+线程编号:17 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 16:12:57,758 
+线程编号:17 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 16:12:57,897 
+线程编号:17 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:token:5_4ScvIwPL0QVrDp4Fn9wbvg2I9DZkf1uZcYzNiddFmdy35VTqAxrRu3O0unikfIpNSboc-l_iH4x4lqVdygj3sET30wXEdRKkOF6bcdx-xciVjTQJN3OpP2cTIiK3r98CkgS44IHQt-GwgPdCQXQgCAAAHA,openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 16:12:59,534 
+线程编号:18 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 16:13:04,080 
+线程编号:16 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 16:13:07,627 
+线程编号:18 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:accessToken:5_4ScvIwPL0QVrDp4Fn9wbvg2I9DZkf1uZcYzNiddFmdy35VTqAxrRu3O0unikfIpNSboc-l_iH4x4lqVdygj3sET30wXEdRKkOF6bcdx-xciVjTQJN3OpP2cTIiK3r98CkgS44IHQt-GwgPdCQXQgCAAAHA
+********************************************
+异常时间:2018-01-09 16:13:28,075 
+线程编号:18 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 16:13:29,367 
+线程编号:16 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 16:13:29,367 
+线程编号:16 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 16:13:29,522 
+线程编号:16 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:token:5_4ScvIwPL0QVrDp4Fn9wbvg2I9DZkf1uZcYzNiddFmdy35VTqAxrRu3O0unikfIpNSboc-l_iH4x4lqVdygj3sET30wXEdRKkOF6bcdx-xciVjTQJN3OpP2cTIiK3r98CkgS44IHQt-GwgPdCQXQgCAAAHA,openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 16:13:30,707 
+线程编号:18 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 16:14:51,137 
+线程编号:17 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:accessToken:5_4ScvIwPL0QVrDp4Fn9wbvg2I9DZkf1uZcYzNiddFmdy35VTqAxrRu3O0unikfIpNSboc-l_iH4x4lqVdygj3sET30wXEdRKkOF6bcdx-xciVjTQJN3OpP2cTIiK3r98CkgS44IHQt-GwgPdCQXQgCAAAHA
+********************************************
+异常时间:2018-01-09 16:36:35,125 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 16:36:40,512 
+线程编号:9 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 16:36:40,515 
+线程编号:9 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 16:36:40,771 
+线程编号:9 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:token:5_4ScvIwPL0QVrDp4Fn9wbvg2I9DZkf1uZcYzNiddFmdy35VTqAxrRu3O0unikfIpNSboc-l_iH4x4lqVdygj3sET30wXEdRKkOF6bcdx-xciVjTQJN3OpP2cTIiK3r98CkgS44IHQt-GwgPdCQXQgCAAAHA,openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 16:36:44,658 
+线程编号:7 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 16:36:47,292 
+线程编号:5 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 16:36:47,293 
+线程编号:5 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 16:36:47,427 
+线程编号:5 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:token:5_4ScvIwPL0QVrDp4Fn9wbvg2I9DZkf1uZcYzNiddFmdy35VTqAxrRu3O0unikfIpNSboc-l_iH4x4lqVdygj3sET30wXEdRKkOF6bcdx-xciVjTQJN3OpP2cTIiK3r98CkgS44IHQt-GwgPdCQXQgCAAAHA,openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 16:37:04,570 
+线程编号:9 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 16:52:53,463 
+线程编号:6 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 16:52:58,214 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 16:52:58,215 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 16:52:58,467 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:token:5_4ScvIwPL0QVrDp4Fn9wbvg2I9DZkf1uZcYzNiddFmdy35VTqAxrRu3O0unikfIpNSboc-l_iH4x4lqVdygj3sET30wXEdRKkOF6bcdx-xciVjTQJN3OpP2cTIiK3r98CkgS44IHQt-GwgPdCQXQgCAAAHA,openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 16:53:06,540 
+线程编号:8 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 16:53:10,341 
+线程编号:6 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 16:53:18,943 
+线程编号:7 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:accessToken:5_4ScvIwPL0QVrDp4Fn9wbvg2I9DZkf1uZcYzNiddFmdy35VTqAxrRu3O0unikfIpNSboc-l_iH4x4lqVdygj3sET30wXEdRKkOF6bcdx-xciVjTQJN3OpP2cTIiK3r98CkgS44IHQt-GwgPdCQXQgCAAAHA
+********************************************
+异常时间:2018-01-09 16:53:23,412 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 16:53:23,641 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:sue:测试,当前主单id:120194,首住主单id:0,当前房型:单间,当前房型价格:0,会员卡id:99119801
+********************************************
+异常时间:2018-01-09 16:54:03,696 
+线程编号:6 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:accessToken:5_4ScvIwPL0QVrDp4Fn9wbvg2I9DZkf1uZcYzNiddFmdy35VTqAxrRu3O0unikfIpNSboc-l_iH4x4lqVdygj3sET30wXEdRKkOF6bcdx-xciVjTQJN3OpP2cTIiK3r98CkgS44IHQt-GwgPdCQXQgCAAAHA
+********************************************
+异常时间:2018-01-09 16:54:23,419 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 16:55:47,406 
+线程编号:16 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 16:55:47,407 
+线程编号:16 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 16:55:47,582 
+线程编号:16 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:token:5_4ScvIwPL0QVrDp4Fn9wbvg2I9DZkf1uZcYzNiddFmdy35VTqAxrRu3O0unikfIpNSboc-l_iH4x4lqVdygj3sET30wXEdRKkOF6bcdx-xciVjTQJN3OpP2cTIiK3r98CkgS44IHQt-GwgPdCQXQgCAAAHA,openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 16:55:49,526 
+线程编号:16 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 16:57:09,340 
+线程编号:16 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:accessToken:5_4ScvIwPL0QVrDp4Fn9wbvg2I9DZkf1uZcYzNiddFmdy35VTqAxrRu3O0unikfIpNSboc-l_iH4x4lqVdygj3sET30wXEdRKkOF6bcdx-xciVjTQJN3OpP2cTIiK3r98CkgS44IHQt-GwgPdCQXQgCAAAHA
+********************************************
+异常时间:2018-01-09 16:57:11,506 
+线程编号:20 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 16:57:16,586 
+线程编号:7 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 16:57:16,587 
+线程编号:7 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 16:57:16,739 
+线程编号:7 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:token:5_4ScvIwPL0QVrDp4Fn9wbvg2I9DZkf1uZcYzNiddFmdy35VTqAxrRu3O0unikfIpNSboc-l_iH4x4lqVdygj3sET30wXEdRKkOF6bcdx-xciVjTQJN3OpP2cTIiK3r98CkgS44IHQt-GwgPdCQXQgCAAAHA,openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 16:58:09,817 
+线程编号:6 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 17:38:05,622 
+线程编号:5 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 17:38:59,567 
+线程编号:9 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:sue微信支付返回,储值金额:0,微信金额:0.01,账务金额0.01,账务id:98035,主单id:120200,pccode:9905,会员卡id:99119801
+********************************************
+异常时间:2018-01-09 17:39:45,953 
+线程编号:9 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:accessToken:5_mkblgY9VJd9LE1Wx_t3xWBfu9FBMQ3Qk-gpugHXatktP4BeaHDMdNVuez1XnT2rssgcamCbVprg9TpVpFzoj6O4y24yN0Y9UO_sVgaXvRGfZaBQrMyILFk2teMpxwwWmjgvo1LvcpEkAMXVDPHLeCFAYQU
+********************************************
+异常时间:2018-01-09 17:39:57,681 
+线程编号:10 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 17:47:06,429 
+线程编号:20 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 17:47:06,434 
+线程编号:20 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 17:47:06,756 
+线程编号:20 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:token:5_mkblgY9VJd9LE1Wx_t3xWBfu9FBMQ3Qk-gpugHXatktP4BeaHDMdNVuez1XnT2rssgcamCbVprg9TpVpFzoj6O4y24yN0Y9UO_sVgaXvRGfZaBQrMyILFk2teMpxwwWmjgvo1LvcpEkAMXVDPHLeCFAYQU,openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 17:47:12,956 
+线程编号:29 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 17:56:04,569 
+线程编号:16 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 17:56:04,571 
+线程编号:16 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 17:56:04,788 
+线程编号:16 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:token:5_mkblgY9VJd9LE1Wx_t3xWBfu9FBMQ3Qk-gpugHXatktP4BeaHDMdNVuez1XnT2rssgcamCbVprg9TpVpFzoj6O4y24yN0Y9UO_sVgaXvRGfZaBQrMyILFk2teMpxwwWmjgvo1LvcpEkAMXVDPHLeCFAYQU,openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 17:56:05,933 
+线程编号:16 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 17:56:07,488 
+线程编号:9 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 17:56:07,704 
+线程编号:9 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:sue:测试,当前主单id:120205,首住主单id:0,当前房型:单间,当前房型价格:0,会员卡id:99119801
+********************************************
+异常时间:2018-01-09 17:57:12,205 
+线程编号:5 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:accessToken:5_mkblgY9VJd9LE1Wx_t3xWBfu9FBMQ3Qk-gpugHXatktP4BeaHDMdNVuez1XnT2rssgcamCbVprg9TpVpFzoj6O4y24yN0Y9UO_sVgaXvRGfZaBQrMyILFk2teMpxwwWmjgvo1LvcpEkAMXVDPHLeCFAYQU
+********************************************
+异常时间:2018-01-09 17:57:24,322 
+线程编号:12 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 17:57:27,393 
+线程编号:5 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 17:57:27,394 
+线程编号:5 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 17:57:27,556 
+线程编号:5 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:token:5_mkblgY9VJd9LE1Wx_t3xWBfu9FBMQ3Qk-gpugHXatktP4BeaHDMdNVuez1XnT2rssgcamCbVprg9TpVpFzoj6O4y24yN0Y9UO_sVgaXvRGfZaBQrMyILFk2teMpxwwWmjgvo1LvcpEkAMXVDPHLeCFAYQU,openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 17:57:29,078 
+线程编号:5 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 17:57:41,082 
+线程编号:12 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:identity:
+********************************************
+异常时间:2018-01-09 17:57:41,082 
+线程编号:12 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************
+异常时间:2018-01-09 17:57:41,237 
+线程编号:12 
+异常信息:所在文件:C:\Users\mc\Documents\Visual Studio 2015\Projects\SingleWeixinSDK\Public\LogHelper.cs
+所在行号:20
+其它信息:token:5_mkblgY9VJd9LE1Wx_t3xWBfu9FBMQ3Qk-gpugHXatktP4BeaHDMdNVuez1XnT2rssgcamCbVprg9TpVpFzoj6O4y24yN0Y9UO_sVgaXvRGfZaBQrMyILFk2teMpxwwWmjgvo1LvcpEkAMXVDPHLeCFAYQU,openid:obzG9juJ3_bvvbM3iMs6bBgcoDsE
+********************************************

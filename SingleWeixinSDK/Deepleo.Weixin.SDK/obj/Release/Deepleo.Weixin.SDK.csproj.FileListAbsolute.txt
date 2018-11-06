@@ -1,0 +1,15 @@
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Deepleo.Weixin.SDK\bin\Release\log4net.config
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Deepleo.Weixin.SDK\bin\Release\Deepleo.Weixin.SDK.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Deepleo.Weixin.SDK\bin\Release\Deepleo.Weixin.SDK.pdb
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Deepleo.Weixin.SDK\bin\Release\Bee.Web.Biz.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Deepleo.Weixin.SDK\bin\Release\Bee.Web.Data.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Deepleo.Weixin.SDK\bin\Release\Newtonsoft.Json.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Deepleo.Weixin.SDK\bin\Release\Public.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Deepleo.Weixin.SDK\bin\Release\System.Web.Razor.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Deepleo.Weixin.SDK\bin\Release\log4net.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Deepleo.Weixin.SDK\bin\Release\Public.pdb
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Deepleo.Weixin.SDK\bin\Release\System.Web.Razor.xml
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Deepleo.Weixin.SDK\bin\Release\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Deepleo.Weixin.SDK\obj\Release\Deepleo.Weixin.SDK.csprojResolveAssemblyReference.cache
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Deepleo.Weixin.SDK\obj\Release\Deepleo.Weixin.SDK.dll
+C:\Users\mc\Desktop\公司文档\net\SingleWeixinSDK\Deepleo.Weixin.SDK\obj\Release\Deepleo.Weixin.SDK.pdb
